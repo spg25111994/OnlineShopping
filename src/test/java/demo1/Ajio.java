@@ -6,6 +6,7 @@ public class Ajio {
   @Test
   public void f() {
 	  
-	  System.out.println("Hello, This is Ajio online service");
+	  
   }
 }
+
