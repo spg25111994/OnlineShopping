@@ -2,11 +2,10 @@ package demo1;
 
 import org.testng.annotations.Test;
 
-public class Ajio {
+public class Myntra {
   @Test
   public void f() {
 	  
-	  System.out.println("Hello, This is Ajio online service");
+	  System.out.println("Hello, This is Myntra online service");
   }
 }
-
